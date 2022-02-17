@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-theater#entrance3"
+                 "value":".\/db-theater-test#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-theater#entrance2"
+                 "value":".\/db-theater-test#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-theater#entrance1"
+                 "value":".\/db-theater-test#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,

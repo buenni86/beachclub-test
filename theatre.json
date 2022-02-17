@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/beachclub#entrance3"
+                 "value":".\/beachclub-test#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/beachclub#entrance2"
+                 "value":".\/beachclub-test#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/beachclub#entrance1"
+                 "value":".\/beachclub-test#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -406,7 +406,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Theater"
+         "value":"DB Theater Test"
         }, 
         {
          "name":"mapImage",
@@ -416,7 +416,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB Theater"
+         "value":"DB-Theater-Test"
         }, 
         {
          "name":"script",
@@ -424,7 +424,7 @@
          "value":"skript.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.0",
+ "tiledversion":"1.8.1",
  "tileheight":32,
  "tilesets":[
         {

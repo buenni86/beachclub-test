@@ -674,7 +674,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Beachclub for Events"
+         "value":"DB Beachclub Test"
         }, 
         {
          "name":"mapImage",
@@ -684,7 +684,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Beachclub"
+         "value":"Beachclub-Test"
         }, 
         {
          "name":"script",
